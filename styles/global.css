@@ -1,0 +1,43 @@
+/*Formatações padrões*/
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-size: 1em;
+    font-family: 'Trebuchet MS', Helvetica, sans-serif;
+    background-color: #ebe9eb;
+}
+
+/*Cabeçalho*/
+header{
+    background-color: #ffc300;
+    padding: 20px;
+    text-align: center;
+}
+#tecblog, #menu-nav{
+    padding: 10px;
+}
+#tecblog span{
+    color: white;
+}
+#tecblog{
+    font-size: 2.5em;
+    color: #4e4e4e;
+}
+#menu-nav a, #menu-nav a:visited{
+    text-decoration: none;
+    padding: 10px;
+    font-size: 1.1em;
+    color: white;
+}
+#menu-nav a:hover{
+    background-color: white;
+    color: black;
+}
+a, a:visited{
+    text-decoration: none;
+    color: black;
+}a:hover{
+    text-decoration: underline;
+}

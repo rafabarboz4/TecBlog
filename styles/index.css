@@ -1,0 +1,48 @@
+main{
+    width: 920px;
+    margin: 0px auto;
+    padding: 15px;
+}
+footer{
+    background-color: #ccc;
+    clear: both;
+    text-align: center;
+    padding: 15px;
+}
+#postagens{
+    width: 660px;
+    float: left;
+}
+.data-postagem{
+    font-size: 0.8em;
+    display: block;
+    border-bottom: 1px solid #ccc;
+    padding-bottom: 10px;
+    margin-bottom: 10px;
+}
+.postagem-1{
+    padding: 20px;
+    margin-bottom: 20px;
+    background-color: white;
+}
+#barra-lateral{
+    width: 240px;
+    float: right;
+}
+#barra-lateral{
+    background-color: white;
+}
+.conteudo-lateral{
+    background-color: white;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+.conteudo-lateral h3{
+    background-color: #ccc;
+    color: #565656;
+    padding: 5px;
+}
+.conteudo-lateral p{
+    font-size: 0.8em;
+    padding: 5px;
+}
